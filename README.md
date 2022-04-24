@@ -1,6 +1,6 @@
 # Python-Django-Technical-Task
 
-TASK1: Suppose you have two model with name user and customer. And customer are related to user with one to one relationship. You have to create a rest api view for create a customer.\n
+TASK1: Suppose you have two model with name user and customer. And customer are related to user with one to one relationship. You have to create a rest api view for create a customer.
 Field of user are:- 
 a) first_name
 b) last_name
