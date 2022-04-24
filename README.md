@@ -1,6 +1,6 @@
 # Python-Django-Technical-Task
 
-TASK1: Suppose you have two model with name user and customer. And customer are related to user with one to one relationship. You have to create a rest api view for create a customer.
+TASK1: Suppose you have two model with name user and customer. And customer are related to user with one to one relationship. You have to create a rest api view for create a customer.\n
 Field of user are:- 
 a) first_name
 b) last_name
@@ -29,6 +29,7 @@ TASK2: How to create a bundles of static files like css,js and images. And this 
 => completed the task using gulpfile 
 => using webpack, it's completed just facing some error in it 
 => setup
+=> After Installing required packages, run npx gulp bundleJs/bundleCss to find out the required result
 
 TASK3: How to back up database (postgres) automatically at 2am in the morning and 
 store it in a remote location like AWS s3 bucket storage
